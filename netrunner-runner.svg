@@ -31,12 +31,12 @@
      inkscape:zoom="0.65975396"
      inkscape:cx="546.41582"
      inkscape:cy="841.22269"
-     inkscape:window-width="1512"
+     inkscape:window-width="1736"
      inkscape:window-height="1387"
-     inkscape:window-x="746"
+     inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g107"
+     inkscape:current-layer="layer1"
      showguides="true" /><defs
      id="defs2"><rect
        x="167.07317"
@@ -1688,7 +1688,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:0.85;font-family:FindersKeepers;-inkscape-font-specification:FindersKeepers;fill:#000000;stroke-width:10"
            x="250.27449"
            y="34.711452"
-           id="tspan38">must match or exceed</tspan><tspan
+           id="tspan38">must *match* or exceed</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:0.85;font-family:FindersKeepers;-inkscape-font-specification:FindersKeepers;fill:#000000;stroke-width:10"
            x="250.27449"
