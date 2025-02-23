@@ -4,12 +4,20 @@ These are A3 'playsheets' for the asymettric card game NetRunner, with a sort of
 
 They're intended to be a useful memory aid for people who don't play very frequently, but understand the basic structure of the game.
 
-## Features / Antifeatures
+## Features
 - Entirely in grayscale, largely in black-and-white
 - Fairly visually clean
-- Easy to toggle different elements in Inkscape to make them cleaner
+- Easy to toggle different elements in e.g. [Inkscape](https://inkscape.org/) to make them cleaner
+- Includes some game setup hints (e.g. "Collect 5 credits as your starting pool")
+- Available actions are described in multiple places
+- "Click trackers" extended to include Draw and Discard phases
+
+## Antifeatures
+- The Runner sheet is deliberately a bit messier than the Corp one
+- Many hints etc. are covered up by cards during the course of play
 - Mixes vector and pixel art, the latter at variable resolutions
 - Doesn't use the NSG symbol for Clicks (because I like the Mac OS watch too much)
+- Doesn't try to be comprehensive
 
 ## Credits
 
